@@ -102,7 +102,6 @@ StScrollBar StButton#hhandle {
 
 .popup-menu-boxpointer {
     -arrow-border-radius: 4px;
-    /*-arrow-background-color: #eaeaea;*/
     -arrow-background-color: rgba(68,54,69,1);
     -arrow-border-width: 1px;
     -arrow-border-color: rgba(25, 25, 25, .3);
@@ -142,7 +141,7 @@ StScrollBar StButton#hhandle {
     height: 22px;
     width: 220px;
     color: #fff;
-    caret-color: #2c2c2c;
+    caret-color: #fff;
     font-size: 9pt;
     font-weight: normal;
     caret-size: 1px;
@@ -1231,8 +1230,8 @@ StScrollBar StButton#hhandle {
     border-radius: 0;
     height: 22px;
     width: 220px;
-    color: #2c2c2c;
-    caret-color: #2c2c2c;
+    color: #fff;
+    caret-color: #fff;
     font-size: 9pt;
     font-weight: normal;
     caret-size: 1px;
@@ -1249,8 +1248,8 @@ StScrollBar StButton#hhandle {
     border-radius: 0;
     height: 22px;
     width: 220px;
-    color: #2c2c2c;
-    caret-color: #2c2c2c;
+    color: #fff;
+    caret-color: #fff;
     font-size: 9pt;
     font-weight: normal;
     caret-size: 1px;
@@ -1549,7 +1548,7 @@ StScrollBar StButton#hhandle {
 
 .menu-search-entry-icon {
     icon-size: 16px;
-    color: #2D2D2D;
+    color: #fff;
 }
 
 /* Context menu (at the moment only for favorites) */
