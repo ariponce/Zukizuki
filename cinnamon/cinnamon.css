@@ -1474,6 +1474,7 @@ StScrollBar StButton#hhandle {
 
 .menu-application-button:highlighted {
     border-image: url("misc-assets/highlighted.svg") 4;
+    color: #fff;
 }
 
 .menu-application-button-selected:highlighted {
@@ -1492,12 +1493,13 @@ StScrollBar StButton#hhandle {
     color: #fff;
 }
 
+/** i.e: when searching **/
 .menu-category-button-greyed {
     padding-top: 7px;
     padding-left: 7px;
     padding-right: 7px;
     padding-bottom: 7px; 
-    color: rgba(0, 0, 0, .4);
+    color: rgba(255, 255, 255, .6);
     font-style: normal;
 }
 
